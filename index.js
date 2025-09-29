@@ -8,6 +8,7 @@ function sumarDias(fecha, dias){
     return nuevaFecha;
 }
 
+
 let hoy = new Date();
 
 clientes.forEach(cliente => {
