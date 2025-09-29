@@ -2,7 +2,7 @@
   {
     "id": "10",
     "nombre": "Leonel Messi",
-    "fechaVencimiento": "2025-12-28T16:12:22.543Z",
+    "fechaVencimiento": "2025-11-28T16:30:21.750Z",
     "historial": [
       {
         "tipo": "registro",
@@ -13,8 +13,12 @@
         "fecha": "2025-11-28"
       },
       {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
         "tipo": "pago",
-        "fecha": "2025-12-28"
+        "fecha": "2025-11-28"
       },
       {
         "tipo": "registro",
@@ -25,8 +29,12 @@
         "fecha": "2025-11-28"
       },
       {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
         "tipo": "pago",
-        "fecha": "2025-12-28"
+        "fecha": "2025-11-28"
       },
       {
         "tipo": "registro",
@@ -37,27 +45,675 @@
         "fecha": "2025-11-28"
       },
       {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
         "tipo": "pago",
-        "fecha": "2025-12-28"
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
       }
     ]
   },
   {
     "id": "11",
     "nombre": "Maria Fuseneco",
-    "fechaVencimiento": "2025-10-29T16:12:22.543Z",
+    "fechaVencimiento": "2025-11-28T16:30:21.750Z",
     "historial": [
       {
         "tipo": "registro",
         "fecha": "2025-10-29"
       },
       {
-        "tipo": "registro",
-        "fecha": "2025-10-29"
+        "tipo": "pago",
+        "fecha": "2025-11-28"
       },
       {
         "tipo": "registro",
         "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
       }
     ]
   }

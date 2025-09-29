@@ -1,13 +1,12 @@
 const fs = require('fs');
 
-let clientes = JSON.parse(fs.readFileSync('clientes.json', 'utf-8'));
+let clientes = require('./clientes.json');
 
 function sumarDias(fecha, dias){
     let nuevaFecha = new Date(fecha);
     nuevaFecha.setDate(nuevaFecha.getDate() + dias);
     return nuevaFecha;
 }
-
 
 let hoy = new Date();
 
@@ -29,7 +28,7 @@ function registroPago(cliente){
 }
 
 registroPago(clientes[0]);
-registroPago(clientes[0]);
+registroPago(clientes[1]);
 
 
 fs.writeFileSync('clientes.json', JSON.stringify(clientes, null, 2));
