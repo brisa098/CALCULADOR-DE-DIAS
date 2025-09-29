@@ -1,0 +1,32 @@
+[
+  {
+    "id": "10",
+    "nombre": "Leonel Messi",
+    "fechaVencimiento": "2025-12-28T16:02:31.219Z",
+    "historial": [
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-11-28"
+      },
+      {
+        "tipo": "pago",
+        "fecha": "2025-12-28"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "nombre": "Maria Fuseneco",
+    "fechaVencimiento": "2025-10-29T16:02:31.219Z",
+    "historial": [
+      {
+        "tipo": "registro",
+        "fecha": "2025-10-29"
+      }
+    ]
+  }
+]
